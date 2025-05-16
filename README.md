@@ -3,8 +3,10 @@
 
 ````markdown
 # 🐶🐱 Dog vs Cat Classifier
+---
 
 A simple web app built with **Streamlit** and **TensorFlow** to classify images as either a **dog** or a **cat**.
+---
 
 ## 📌 Features
 
@@ -23,8 +25,8 @@ A simple web app built with **Streamlit** and **TensorFlow** to classify images 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sanyagupta31/dog-cat-classifier.git
-cd dog-cat-classifier
+git clone https://github.com/sanyagupta31/dog-cat.git
+cd dog-cat
 ````
 
 ### 2. Install dependencies
@@ -71,6 +73,5 @@ or
 Model trained on a subset of the Dogs vs Cats dataset from Kaggle.
 Built using Streamlit, TensorFlow, and Python.
 
-```
 
 
